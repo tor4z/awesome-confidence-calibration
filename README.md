@@ -17,6 +17,8 @@
 
 * [ICML 2005] Predicting Good Probabilities With Supervised Learning [apper](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)
 
+* [NIPS 2017] On Fairness and Calibration [paper](https://arxiv.org/pdf/1709.02012v2.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
