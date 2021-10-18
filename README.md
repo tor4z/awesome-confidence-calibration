@@ -13,3 +13,4 @@
 
 * [AISTATS 2011] Approximate inference for the loss-calibrated Bayesian [paper](http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11a.pdf)
 
+* [Arxiv 2018] Loss-calibrated approximate inference in bayesian neural networks [paper](https://arxiv.org/pdf/1805.03901.pdf)
