@@ -15,6 +15,7 @@
 
 * [AAAI 2021] Learning to Cascade: Confidence Calibration for Improving the Accuracy and Computational Cost of Cascade Inference Systems [paper](https://ojs.aaai.org/index.php/AAAI/article/download/16900/16707)
 
+* [CVPR 2019] Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.pdf)
 
 ## Resources
 
