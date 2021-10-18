@@ -1,5 +1,6 @@
 # awesome-confidence-calibration
 
+* [ALMC 1997] Probabilistic outputs for support vector machines and comparison to regularized likelihood methods [paper](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=A375AE2C5B23A68414697D293F98B470?doi=10.1.1.41.1639&rep=rep1&type=pdf)
 
 * [ICLR 2020] distance-based learning from errors for confidence calibration [paper](https://openreview.net/pdf?id=BJeB5hVtvB)
 
