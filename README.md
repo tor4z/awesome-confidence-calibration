@@ -13,6 +13,8 @@
 
 * [Arxiv 2018] Loss-calibrated approximate inference in bayesian neural networks [paper](https://arxiv.org/pdf/1805.03901.pdf)
 
+* [AAAI 2021] Learning to Cascade: Confidence Calibration for Improving the Accuracy and Computational Cost of Cascade Inference Systems [paper](https://ojs.aaai.org/index.php/AAAI/article/download/16900/16707)
+
 
 ## Resources
 
