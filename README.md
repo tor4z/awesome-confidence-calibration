@@ -24,6 +24,8 @@
 
 * [Arxiv 2016] Approximating Likelihood Ratios with Calibrated Discriminative Classifiers [paper](https://arxiv.org/pdf/1506.02169v2.pdf)
 
+* [NIPS 2020] Calibrating Deep Neural Networks using Focal Loss [paper](https://arxiv.org/pdf/2002.09437v2.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
