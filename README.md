@@ -7,7 +7,7 @@
 
 * [ICML 2016]  Dropout as a bayesian approximation: Representing model uncertainty in deep learning [paper](http://proceedings.mlr.press/v48/gal16.pdf) [code](https://github.com/yaringal/DropoutUncertaintyExps)
 
-* [NIPS 2020] Improving model calibration with accuracy versus uncertainty optimization [paper](https://papers.nips.cc/paper/2020/file/d3d9446802a44259755d38e6d163e820-Paper.pdf)
+* [NIPS 2020] Improving model calibration with accuracy versus uncertainty optimization [paper](https://papers.nips.cc/paper/2020/file/d3d9446802a44259755d38e6d163e820-Paper.pdf) [code](https://github.com/IntelLabs/AVUC)
 
 * [AISTATS 2011] Approximate inference for the loss-calibrated Bayesian [paper](http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11a.pdf)
 
