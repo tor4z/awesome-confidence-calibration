@@ -22,6 +22,8 @@
 
 * [NIPS 2017] On Fairness and Calibration [paper](https://arxiv.org/pdf/1709.02012v2.pdf)
 
+* [Arxiv 2016] Approximating Likelihood Ratios with Calibrated Discriminative Classifiers [paper](https://arxiv.org/pdf/1506.02169v2.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
