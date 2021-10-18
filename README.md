@@ -17,6 +17,8 @@
 
 * [ICML 2005] Predicting Good Probabilities With Supervised Learning [apper](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)
 
+* [KDD 2002] Transforming Classifier Scores into Accurate Multiclass Probability Estimates [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7457&rep=rep1&type=pdf)
+
 * [NIPS 2017] On Fairness and Calibration [paper](https://arxiv.org/pdf/1709.02012v2.pdf)
 
 ## Resources
