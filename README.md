@@ -15,6 +15,8 @@
 
 * [CVPR 2019] Learning for Single-Shot Confidence Calibration in Deep Neural Networks through Stochastic Inferences [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Seo_Learning_for_Single-Shot_Confidence_Calibration_in_Deep_Neural_Networks_Through_CVPR_2019_paper.pdf)
 
+* [ICML 2005] Predicting Good Probabilities With Supervised Learning [apper](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
