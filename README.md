@@ -34,6 +34,10 @@
 
 * [CVPR 2021] Post-hoc Uncertainty Calibration for Domain Drift Scenarios [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tomani_Post-Hoc_Uncertainty_Calibration_for_Domain_Drift_Scenarios_CVPR_2021_paper.pdf) [code](https://github.com/tochris/calibration-domain-drift)
 
+* [NIPS 2017] Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles [apper](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
+
+* [NIPS 2019] Addressing Failure Prediction by Learning Model Confidence [paper](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf) [code](https://github.com/valeoai/ConfidNet)
+
 
 ## Resources
 
