@@ -43,7 +43,7 @@
 * [ICLR 2018] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
  [paper](https://openreview.net/pdf?id=ryiAv2xAZ)
 
-* [NIPS 2019] Addressing Failure Prediction by Learning Model Confidence [paper](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf)
+* [NIPS 2019] Addressing Failure Prediction by Learning Model Confidence [paper](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf) [code](https://github.com/valeoai/ConfidNet)
 
 ## Resources
 
