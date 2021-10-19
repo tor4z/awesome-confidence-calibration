@@ -30,7 +30,7 @@
 
 * [NIPS 2019] Verified Uncertainty Calibration [paper](https://arxiv.org/pdf/1909.10155v2.pdf) [code](https://github.com/p-lambda/verified_calibration)
 
-* [CVPR 2021] Improving Calibration for Long-Tailed Recognition [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf)
+* [CVPR 2021] Improving Calibration for Long-Tailed Recognition [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf) [paper](https://github.com/dvlab-research/MiSLAS)
 
 ## Resources
 
