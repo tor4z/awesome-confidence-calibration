@@ -32,6 +32,9 @@
 
 * [CVPR 2021] Improving Calibration for Long-Tailed Recognition [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf) [code](https://github.com/dvlab-research/MiSLAS)
 
+* [CVPR 2021] Post-hoc Uncertainty Calibration for Domain Drift Scenarios [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Tomani_Post-Hoc_Uncertainty_Calibration_for_Domain_Drift_Scenarios_CVPR_2021_paper.pdf) [code](https://github.com/tochris/calibration-domain-drift)
+
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
