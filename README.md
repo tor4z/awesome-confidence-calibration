@@ -47,6 +47,8 @@
 
 * [Arxiv 2021] On the Calibration and Uncertainty of Neural Learning to Rank Models [paper](https://arxiv.org/pdf/2101.04356v1.pdf) [code](https://github.com/Guzpenha/transformer_rankers/tree/uncertainty_estimation)
 
+* [Classic] Isotonic Regression [paper](https://www.stat.cmu.edu/~ryantibs/papers/neariso.pdf) [paper](https://arxiv.org/pdf/1603.04190.pdf) [paper](https://edoc.ub.uni-muenchen.de/966/1/Salanti_Georgia.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
