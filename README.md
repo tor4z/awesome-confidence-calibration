@@ -28,7 +28,7 @@
 
 * [NIPS 2020] Calibrating Deep Neural Networks using Focal Loss [paper](https://arxiv.org/pdf/2002.09437v2.pdf)
 
-* [NIPS 2019] Verified Uncertainty Calibration [paper](https://arxiv.org/pdf/1909.10155v2.pdf)
+* [NIPS 2019] Verified Uncertainty Calibration [paper](https://arxiv.org/pdf/1909.10155v2.pdf) [code](https://github.com/p-lambda/verified_calibration)
 
 
 ## Resources
