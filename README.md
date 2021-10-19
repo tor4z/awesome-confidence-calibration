@@ -45,7 +45,7 @@
 
 * [NIPS 2019] Addressing Failure Prediction by Learning Model Confidence [paper](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf) [code](https://github.com/valeoai/ConfidNet)
 
-* [Arxiv 2021] On the Calibration and Uncertainty of Neural Learning to Rank Models [paper](https://arxiv.org/pdf/2101.04356v1.pdf) [code](https://github.com/Guzpenha/transformer_rankers)
+* [Arxiv 2021] On the Calibration and Uncertainty of Neural Learning to Rank Models [paper](https://arxiv.org/pdf/2101.04356v1.pdf) [code](https://github.com/Guzpenha/transformer_rankers/tree/uncertainty_estimation)
 
 ## Resources
 
