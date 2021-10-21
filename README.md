@@ -49,6 +49,8 @@
 
 * [Classic] Isotonic Regression [paper](https://www.stat.cmu.edu/~ryantibs/papers/neariso.pdf) [paper](https://arxiv.org/pdf/1603.04190.pdf) [paper](https://edoc.ub.uni-muenchen.de/966/1/Salanti_Georgia.pdf)
 
+* [NIPS 2019] Beyond temperature scaling: Obtaining well-calibrated multi-class probabilities with Dirichlet calibration [paper](https://proceedings.neurips.cc/paper/2019/file/8ca01ea920679a0fe3728441494041b9-Paper.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
