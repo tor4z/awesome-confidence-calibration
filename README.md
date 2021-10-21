@@ -53,6 +53,8 @@
 
 * [ICML 2001] Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers [paper](https://cseweb.ucsd.edu/~elkan/calibrated.pdf)
 
+* [AISTATS 2017] Beyond sigmoids: How to obtain well-calibrated probabilities from binary classifiers with beta calibration [paper](http://proceedings.mlr.press/v54/kull17a/kull17a.pdf) [code](https://github.com/REFRAME/betacal)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
