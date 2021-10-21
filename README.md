@@ -63,6 +63,7 @@
 
 * [Arxiv 2021] Distribution-free calibration guarantees for histogram binning without sample splitting [paper](https://arxiv.org/pdf/2105.04656.pdf) [code](https://github.com/aigen/df-posthoc-calibration)
 
+* [ICML 2012] Predicting accurate probabilities with a ranking loss [paper](https://icml.cc/2012/papers/372.pdf)
 
 ## Resources
 
