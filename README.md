@@ -55,6 +55,10 @@
 
 * [AISTATS 2017] Beyond sigmoids: How to obtain well-calibrated probabilities from binary classifiers with beta calibration [paper](http://proceedings.mlr.press/v54/kull17a/kull17a.pdf) [code](https://github.com/REFRAME/betacal)
 
+* [Arxiv 2015] Binary classifier calibration using an ensemble of near isotonic regression models. [paper](https://arxiv.org/pdf/1511.05191.pdf)
+
+* [KDD 2019] Non-parametric Bayesian Isotonic Calibration: Fighting Over-Confidence in Binary Classification [paper](https://ecmlpkdd2019.org/downloads/paper/587.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
