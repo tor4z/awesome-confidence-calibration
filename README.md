@@ -59,6 +59,8 @@
 
 * [KDD 2019] Non-parametric Bayesian Isotonic Calibration: Fighting Over-Confidence in Binary Classification [paper](https://ecmlpkdd2019.org/downloads/paper/587.pdf) [code](https://github.com/mlkruup/bayesiso)
 
+* [AAAI 2015] Obtaining Well Calibrated Probabilities Using Bayesian Binning [paper](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf) [code](https://github.com/pakdaman/calibration)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
