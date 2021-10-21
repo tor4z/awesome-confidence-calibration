@@ -41,7 +41,7 @@
 * [ICML 2018] Accurate Uncertainties for Deep Learning Using Calibrated Regression [paper](https://proceedings.mlr.press/v80/kuleshov18a/kuleshov18a.pdf)
 
 * [ICLR 2018] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
- [paper](https://openreview.net/pdf?id=ryiAv2xAZ)
+ [paper](https://openreview.net/pdf?id=ryiAv2xAZ) [code](https://github.com/alinlab/Confident_classifier)
 
 * [NIPS 2019] Addressing Failure Prediction by Learning Model Confidence [paper](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf) [code](https://github.com/valeoai/ConfidNet)
 
