@@ -61,6 +61,9 @@
 
 * [AAAI 2015] Obtaining Well Calibrated Probabilities Using Bayesian Binning [paper](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf) [code](https://github.com/pakdaman/calibration)
 
+* [Arxiv 2021] Distribution-free calibration guarantees for histogram binning without sample splitting [paper](https://arxiv.org/pdf/2105.04656.pdf) [code](https://github.com/aigen/df-posthoc-calibration)
+
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
