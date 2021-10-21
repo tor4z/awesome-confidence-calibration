@@ -51,6 +51,8 @@
 
 * [NIPS 2019] Beyond temperature scaling: Obtaining well-calibrated multi-class probabilities with Dirichlet calibration [paper](https://proceedings.neurips.cc/paper/2019/file/8ca01ea920679a0fe3728441494041b9-Paper.pdf)
 
+* [ICML 2001] Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers [paper](https://cseweb.ucsd.edu/~elkan/calibrated.pdf)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
