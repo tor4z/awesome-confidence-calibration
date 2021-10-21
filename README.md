@@ -57,7 +57,7 @@
 
 * [Arxiv 2015] Binary classifier calibration using an ensemble of near isotonic regression models. [paper](https://arxiv.org/pdf/1511.05191.pdf)
 
-* [KDD 2019] Non-parametric Bayesian Isotonic Calibration: Fighting Over-Confidence in Binary Classification [paper](https://ecmlpkdd2019.org/downloads/paper/587.pdf)
+* [KDD 2019] Non-parametric Bayesian Isotonic Calibration: Fighting Over-Confidence in Binary Classification [paper](https://ecmlpkdd2019.org/downloads/paper/587.pdf) [code](https://github.com/mlkruup/bayesiso)
 
 ## Resources
 
